@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Ubicacion
-cd /C/Users/danus/Documents/"Digital House"/"Git bash"
+cd /C/Users/User/Documents/"Digital House"/"Git bash"
 
 #Creacion de directorios
 mkdir Peliculas Peliculas/Infantiles Peliculas/Accion Peliculas/Terror Peliculas/Comedia Peliculas/Romanticas
