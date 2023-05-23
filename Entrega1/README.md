@@ -1,4 +1,4 @@
-### Repositorio Git, manejando scripts.
+#Repositorio Git, manejando scripts.
 
 Este repositorio pone en práctica el uso de scripts en git bash, realizado por el comando nano.
 
