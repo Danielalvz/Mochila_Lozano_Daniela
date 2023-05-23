@@ -1,4 +1,4 @@
-### Repositorio Git
+# Repositorio Git, comandos
 
 Este repositorio da información teorica sobre Git, respondiendo a preguntas clave, como
 quien inventó Git, y por qué, a quien pertence GitHub, y formas de trabajar con GitHub que no sea la terminal.
