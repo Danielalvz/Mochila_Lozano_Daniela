@@ -1,0 +1,44 @@
+Comandos más usados:
+•	Crear
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Clona un repositorio remoto existente y crea una copia local en tu máquina.
+Crear un nuevo repositorio local
+$ git init 
+Crea un nuevo repositorio Git en un directorio específico o inicializa un repositorio existente.
+Conectar repositorio local a uno remoto
+$  git remote add [nombre] [url]
+Conecta tu repositorio local a un repositorio remoto, estableciendo una referencia con un nombre específico.
+•	Agregar
+Agregar archivos o cambios
+$ git add [archivo]
+Agrega un archivo específico al área de preparación (staging area) para ser incluido en el siguiente commit.
+Confirmar cambios
+$ git commit -m "mensaje"
+Crea un nuevo commit (confirmación) con los cambios que están en el área de preparación, junto con un mensaje que describe los cambios realizados.
+Visualizar estado de archivos
+$ git status
+Muestra el estado actual del repositorio, incluyendo los archivos modificados, los archivos en el área de preparación y los cambios sin rastrear.
+•	Obtener o subir información
+Enviar commits al repositorio remoto
+$ git push
+Envía los commits locales al repositorio remoto.
+Obtener cambios del repositorio remoto al local
+$ git pull
+Obtiene los cambios más recientes del repositorio remoto y los fusiona con tu rama local.
+
+
+•	Ramas
+Listar y/o crear ramas
+$ git Branch
+Muestra una lista de las ramas existentes en el repositorio. También se puede utilizar para crear nuevas ramas.
+Cambiar de rama
+$ git checkout [rama]
+Cambia a la rama especificada. También se puede utilizar para crear una nueva rama y cambiar a ella al mismo tiempo.
+Fusionar cambios
+$ git merge [rama]
+Fusiona una rama específica en la rama actual.
+•	Mostrar cambios
+Historial de commits
+$ git log
+Muestra el historial de commits en orden cronológico, mostrando información como los autores, fechas y mensajes de cada commit.
