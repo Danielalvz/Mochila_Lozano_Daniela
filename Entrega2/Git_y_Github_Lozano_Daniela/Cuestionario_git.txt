@@ -1,8 +1,25 @@
+    CUESTIONARIO GIT
+
 a.	¿Quién inventó el sistema de control de versión Git y por qué?
-Lo creó Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Desarrolló Git por la necesidad de un sistema de control de versiones eficiente y flexible para administrar el desarrollo del kernel de Linux, el creó su propio sistema, ya que los existentes no eran adecuados y se convirtió en una herramienta para el desarrollo de software, por su eficiencia.
+
+  Lo creó Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. 
+  Desarrolló Git por la necesidad de un sistema de control de versiones eficiente y flexible 
+  para administrar el desarrollo del kernel de Linux, el creó su propio sistema, ya que los 
+  existentes no eran adecuados y se convirtió en una herramienta para el desarrollo de software, 
+  por su eficiencia.
 
 b.	¿A quién pertenece actualmente GitHub y por qué?
-GitHub fue adquirido por Microsoft en octubre de 2018. Adquirió GitHub como parte de su estrategia para expandir su presencia en el mercado de desarrollo de software y fortalecer su enfoque en el desarrollo de código abierto.
+
+  GitHub fue adquirido por Microsoft en octubre de 2018. Adquirió GitHub como parte de su 
+  estrategia para expandir su presencia en el mercado de desarrollo de software y fortalecer 
+  su enfoque en el desarrollo de código abierto.
 
 c.	¿Hay otra forma que no sea la terminal para trabajar con GitHub?
-Si, existen varias formas de trabajar con GitHub sin necesidad de utilizar comandos de línea. Como lo es la interfaz web de GitHub, la cual proporciona una interfaz intuitiva que permite realizar la mayoría de las operaciones básicas, como crear y clonar repositorios, crear y gestionar ramas, realizar cambios en archivos, y colaborar con otros desarrolladores. O alguna interfaz gráfica para trabajar con repositorios, por ejemplo GitKraken, Sourcetree y GitExtensions, estas proporcionan una interfaz visual para realizar operaciones de control de versiones y colaboración en proyectos alojados en GitHub.
+
+  Si, existen varias formas de trabajar con GitHub sin necesidad de utilizar comandos de línea. 
+  Como lo es la interfaz web de GitHub, la cual proporciona una interfaz intuitiva que permite 
+  realizar la mayoría de las operaciones básicas, como crear y clonar repositorios, crear y 
+  gestionar ramas, realizar cambios en archivos, y colaborar con otros desarrolladores. 
+  O alguna interfaz gráfica para trabajar con repositorios, por ejemplo GitKraken, 
+  Sourcetree y GitExtensions, estas proporcionan una interfaz visual para realizar 
+  operaciones de control de versiones y colaboración en proyectos alojados en GitHub.
