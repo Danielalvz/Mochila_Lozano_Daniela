@@ -1,6 +1,8 @@
 # Repositorio Git, manejando scripts.
 
-Este repositorio pone en práctica el uso de scripts en git bash, realizado por el comando nano.
+Este repositorio pone en práctica el uso de scripts en git bash, realizado por el comando nano. En la siguiente imagen se visualiza el resultado al ejecutar dicho script.
+
+[![Imagen resultado Script](https://github.com/Danielalvz/Mochila_Lozano_Daniela/blob/main/Entrega1/Peliculas/peliculas.jpg?raw=true "Imagen resultado Script")](http://https://github.com/Danielalvz/Mochila_Lozano_Daniela/blob/main/Entrega1/Peliculas/peliculas.jpg?raw=true "Imagen resultado Script")
 
 #### Como funciona?
 
