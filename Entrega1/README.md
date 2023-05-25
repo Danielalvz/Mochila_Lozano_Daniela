@@ -22,7 +22,7 @@ Para modificar la ubicación del archivo tiene dos opciones:
 
 nano scriptPrueba.sh
 
-Para cambiar cambios, teclee ctrl + o
+Para realizar cambios, teclee ctrl + o
 Para salir presione ctrl + x
 
 - Si desea una manera mas sencilla, una vez descargado el archivo scriptPrueba.sh puede abrirlo en un bloc de notas, el que viene por defecto en su computadora, o Notepad++ es uno muy recomendado, si desea descargarlo esta es una opción https://notepad-plus-plus.org/downloads/.
