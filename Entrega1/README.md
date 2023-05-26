@@ -1,6 +1,8 @@
 # Repositorio Git, manejando scripts.
 
-Este repositorio pone en práctica el uso de scripts en git bash, realizado por el comando nano.
+Este repositorio pone en práctica el uso de scripts en git bash, realizado por el comando nano. En la siguiente imagen se visualiza el resultado al ejecutar dicho script.
+
+[![Imagen resultado Script](https://github.com/Danielalvz/Mochila_Lozano_Daniela/blob/main/Entrega1/Peliculas/peliculas.jpg?raw=true "Imagen resultado Script")](http://https://github.com/Danielalvz/Mochila_Lozano_Daniela/blob/main/Entrega1/Peliculas/peliculas.jpg?raw=true "Imagen resultado Script")
 
 #### Como funciona?
 
@@ -20,7 +22,7 @@ Para modificar la ubicación del archivo tiene dos opciones:
 
 nano scriptPrueba.sh
 
-Para cambiar cambios, teclee ctrl + o
+Para realizar cambios, teclee ctrl + o
 Para salir presione ctrl + x
 
 - Si desea una manera mas sencilla, una vez descargado el archivo scriptPrueba.sh puede abrirlo en un bloc de notas, el que viene por defecto en su computadora, o Notepad++ es uno muy recomendado, si desea descargarlo esta es una opción https://notepad-plus-plus.org/downloads/.
