@@ -1,20 +1,27 @@
 ¿ Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
 
-Un lenguaje de programación puede estar limitado a ciertos sistemas operativos debido a diferencias en la 
-arquitectura y diseño de cada sistema. Algunos lenguajes están específicamente diseñados para funcionar 
-en un entorno particular, aprovechando características específicas del sistema operativo. 
-Además, la disponibilidad de compiladores o intérpretes compatibles también puede influir en la 
-portabilidad del lenguaje a diferentes plataformas.
+Debido a que algunos lenguajes de programación están diseñados y desarrollados específicamente para 
+funcionar en un determinado sistema operativo. Esto implica que su implementación, compiladores o intérpretes, 
+están diseñados para aprovechar las características y funcionalidades particulares de ese sistema operativo 
+en particular.
+
+Pueden tener dependencias directas o indirectas de componentes específicos del sistema operativo, como 
+bibliotecas o APIs. Estas dependencias pueden no estar disponibles o tener diferentes implementaciones en otros 
+sistemas operativos, lo que limita la compatibilidad del lenguaje.
+
 
 ¿ Que tipo de maquina virtual es virtual box?
 
-VirtualBox es un software de virtualización de tipo 2, que permite crear y ejecutar múltiples máquinas 
-virtuales en un sistema operativo host. Funciona como una capa de virtualización sobre el sistema operativo 
-principal y admite una amplia gama de sistemas operativos invitados, como Windows, Linux, macOS y más.
+VirtualBox es una aplicación de software de virtualización que crea y administra máquinas virtuales en las que 
+se pueden ejecutar sistemas operativos adicionales. Es una máquina virtual de tipo 2, también conocida como 
+virtualización a nivel de software o virtualización alojada. Esto significa que VirtualBox se ejecuta como una 
+aplicación en un sistema operativo host existente y proporciona un entorno virtualizado en el que se pueden 
+ejecutar otros sistemas operativos invitados.
 
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué? 
 
-Una máquina virtual rota normalmente no afecta a las demás, ya que están aisladas y funcionan de manera independiente.
-Sin embargo, problemas en la infraestructura subyacente, como el hipervisor o el hardware, podrían afectar 
-a todas las máquinas virtuales.
+No, si una máquina virtual se rompe o experimenta un problema, esto no afectará a las demás máquinas virtuales. 
+La virtualización proporciona un entorno aislado y cada máquina virtual funciona de manera independiente.
+Cada máquina virtual tiene su propio sistema operativo, recursos y aplicaciones, y están completamente separadas 
+de otras máquinas virtuales y del sistema operativo host.
 
