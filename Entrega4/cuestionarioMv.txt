@@ -1,0 +1,8 @@
+¡ Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Debido a diferencias en la arquitectura y diseño de cada sistema.
+Algunos lenguajes estan especificamente diseñados para funcionar en un entorno particular,
+aprovechando caracteristicas especificas del sistema oeprativo.
+
+¡Que tipo de maquina virtual es virtual box?
+Software de virtualziacion tipo 2 que permite crear y eejcutar multiples maquinas virtuales
+..
