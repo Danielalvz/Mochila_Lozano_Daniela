@@ -1,12 +1,20 @@
 ¿ Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
 
-Un lenguaje de programación puede estar limitado a ciertos sistemas operativos debido a diferencias en la arquitectura y diseño de cada sistema. Algunos lenguajes están específicamente diseñados para funcionar en un entorno particular, aprovechando características específicas del sistema operativo. Además, la disponibilidad de compiladores o intérpretes compatibles también puede influir en la portabilidad del lenguaje a diferentes plataformas.
+Un lenguaje de programación puede estar limitado a ciertos sistemas operativos debido a diferencias en la 
+arquitectura y diseño de cada sistema. Algunos lenguajes están específicamente diseñados para funcionar 
+en un entorno particular, aprovechando características específicas del sistema operativo. 
+Además, la disponibilidad de compiladores o intérpretes compatibles también puede influir en la 
+portabilidad del lenguaje a diferentes plataformas.
 
 ¿ Que tipo de maquina virtual es virtual box?
 
-VirtualBox es un software de virtualización de tipo 2, que permite crear y ejecutar múltiples máquinas virtuales en un sistema operativo host. Funciona como una capa de virtualización sobre el sistema operativo principal y admite una amplia gama de sistemas operativos invitados, como Windows, Linux, macOS y más.
+VirtualBox es un software de virtualización de tipo 2, que permite crear y ejecutar múltiples máquinas 
+virtuales en un sistema operativo host. Funciona como una capa de virtualización sobre el sistema operativo 
+principal y admite una amplia gama de sistemas operativos invitados, como Windows, Linux, macOS y más.
 
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué? 
 
-Una máquina virtual rota normalmente no afecta a las demás, ya que están aisladas y funcionan de manera independiente. Sin embargo, problemas en la infraestructura subyacente, como el hipervisor o el hardware, podrían afectar a todas las máquinas virtuales.
+Una máquina virtual rota normalmente no afecta a las demás, ya que están aisladas y funcionan de manera independiente.
+Sin embargo, problemas en la infraestructura subyacente, como el hipervisor o el hardware, podrían afectar 
+a todas las máquinas virtuales.
 
